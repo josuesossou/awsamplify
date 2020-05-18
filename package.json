@@ -21,6 +21,7 @@
   "dependencies": {
     "@aws-amplify/ui-react": "^0.2.6",
     "aws-amplify": "^3.0.11",
+    "babel-polyfill": "^6.26.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
