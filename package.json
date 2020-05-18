@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/josuesossou/awsamplify#readme",
   "dependencies": {
+    "@aws-amplify/ui-react": "^0.2.6",
+    "aws-amplify": "^3.0.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
@@ -34,8 +36,8 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
   },
-  "babel":{
-    "presets" : [
+  "babel": {
+    "presets": [
       "@babel/preset-env",
       "@babel/preset-react"
     ]
